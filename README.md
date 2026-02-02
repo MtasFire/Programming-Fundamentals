@@ -1,1 +1,1 @@
-# Proggraming-Fundamentals-grading-project
+# Student sorter program in C
